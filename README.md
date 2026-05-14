@@ -13,4 +13,3 @@ Im just a normal boy.<br>loves programming <3<br>interested in Ai/Ml.<br>Current
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsmedevil12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=itsmedevil12&icon=4&color=1)](https://visitcount.itsvg.in)
