@@ -35,11 +35,6 @@ Custom Minecraft launcher with mod store, Modrinth integration, multi-instance s
 **⚡ ReiC**
 An lightweight and fast compiler backend written in rust. Generates x64-84 machine code.
 
-**🤖 Rei CLI**
-Agentic coding assistant with sandbox VM, background processes, MCP support and an anime personality.
-
-</td>
-<td width="50%">
 **🔗 FeatherMCT**
 Play Minecraft with friends without port forwarding. Custom TCP tunnel relay in Rust + Fabric mod. (Closed sourced 4 now. 🔒)
 
