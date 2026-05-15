@@ -30,13 +30,13 @@
 <td width="50%">
 
 **🪶 Feather Launcher**
-Custom Minecraft launcher with mod store, Modrinth integration, multi-instance support and built-in auth. 2 weeks old.
+- Custom Minecraft launcher with mod store, Modrinth integration, multi-instance support and built-in auth. 2 weeks old.
 
 **⚡ ReiC**
-An lightweight and fast compiler backend written in rust. Generates x64-84 machine code.
+- An lightweight and fast compiler backend written in rust. Generates x64-84 machine code.
 
 **🔗 FeatherMCT**
-Play Minecraft with friends without port forwarding. Custom TCP tunnel relay in Rust + Fabric mod. (Closed sourced 4 now. 🔒)
+- Play Minecraft with friends without port forwarding. Custom TCP tunnel relay in Rust + Fabric mod. (Closed sourced 4 now. 🔒)
 
 </td>
 </tr>
