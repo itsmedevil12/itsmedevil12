@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hey%2C+i'm+ItsmeDevil+%F0%9F%96%A4;builder+of+things+that+shouldn't+exist;19+%7C+he%2Fhim+%7C+a+new+start." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hey%2C+i'm+ItsmeDevil+%F0%9F%96%A4;builder+of+things+that+shouldn't+exist;16+%7C+he%2Fhim+%7C+a+new+start." alt="Typing SVG" />
 
 <br/>
 
@@ -13,19 +13,11 @@
 
 ---
 
-```
-  ██████╗ ███████╗██╗   ██╗██╗██╗     ███████╗
-  ██╔══██╗██╔════╝██║   ██║██║██║     ██╔════╝
-  ██║  ██║█████╗  ██║   ██║██║██║     ███████╗
-  ██║  ██║██╔══╝  ╚██╗ ██╔╝██║██║     ╚════██║
-  ██████╔╝███████╗ ╚████╔╝ ██║███████╗███████║
-  ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝╚══════╝╚══════╝
-```
 
 <div align="center">
 
 *im just a normal boy. loves programming. interested in AI/ML.*
-*currently building things under **Devil's Studio** 🖤*
+*currently building.....🖤*
 
 </div>
 
@@ -40,23 +32,16 @@
 **🪶 Feather Launcher**
 Custom Minecraft launcher with mod store, Modrinth integration, multi-instance support and built-in auth. 2 weeks old.
 
-**⚡ FastXU**
-Edge web workers platform. V8 isolates, Node.js compat layer, multi-region GCP. Think Cloudflare Workers but mine.
+**⚡ ReiC**
+An lightweight and fast compiler backend written in rust. Generates x64-84 machine code.
 
 **🤖 Rei CLI**
 Agentic coding assistant with sandbox VM, background processes, MCP support and an anime personality.
 
 </td>
 <td width="50%">
-
-**🌿 Flora AI / ZyroChat**
-NSFW character AI platforms. don't ask.
-
-**🔮 Neo AI**
-AI inference service powering Devil's Studio products.
-
 **🔗 FeatherMCT**
-Play Minecraft with friends without port forwarding. Custom TCP tunnel relay in Rust + Fabric mod.
+Play Minecraft with friends without port forwarding. Custom TCP tunnel relay in Rust + Fabric mod. (Closed sourced 4 now. 🔒)
 
 </td>
 </tr>
