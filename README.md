@@ -77,11 +77,3 @@
 ![streak](https://streak-stats.demolab.com/?user=itsmedevil12&theme=shadow_blue&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=building+in+the+dark+%F0%9F%96%A4;devil's+studio+%C2%A9+2025" alt="footer" />
-
-</div>
