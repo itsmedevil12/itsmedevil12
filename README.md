@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hey%2C+i'm+ItsmeDevil+%F0%9F%96%A4;builder+of+things+that+shouldn't+exist;16+%7C+he%2Fhim+%7C+a+new+start." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hey%2C+i'm+ItsmeDevil+%F0%9F%96%A4;Is in love with coding<3;16+%7C+he%2Fhim+%7C+a+new+start." alt="Typing SVG" />
 
 <br/>
 
 [![](https://img.shields.io/badge/-%40itsmedevil12-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmedevil12)
-[![](https://img.shields.io/badge/-devilchronicles.dpdns.org-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://devilchronicles.dpdns.org)
+[![](https://img.shields.io/badge/-devilchronicles.dpdns.org-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://mine.devilchronicles.dpdns.org)
 [![](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_itsme._devil)
 [![](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/devilishere1248)
 
